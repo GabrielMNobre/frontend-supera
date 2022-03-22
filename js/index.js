@@ -75,6 +75,8 @@ btnCorrige.onclick = function() {
   digito2.disabled = false;
   container.style.display = 'none';
   btnConfirma.disabled = true;
+  alertBranco.style.display = 'none';
+  alertConfirma.style.display = 'none';
   digito1.focus();
 } 
 
