@@ -13,7 +13,6 @@ var candidatos = [
   },
 ];
 
-// CONFERNDO O VALOR DO INPUT
 var digito1 = document.querySelector('#digito1');
 var digito2 = document.querySelector('#digito2');
 var container = document.querySelector('#candidato');
